@@ -7,6 +7,6 @@ Interactive chat interface powered by NLTK
 Recipe suggestions based on user-provided ingredients
 Simple Python-based backend logic
 #
-Please feel free to explore the repository and refer to the project documentation for more details on the implementation and usage of the division algorithms. If you have any questions or suggestions, don't hesitate to open an issue.
+Please feel free to explore the repository. If you have any questions or suggestions, don't hesitate to open an issue.
 
 Happy coding!
